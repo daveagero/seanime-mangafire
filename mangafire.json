@@ -2,7 +2,7 @@
   "id": "mangafire",
   "name": "MangaFire",
   "description": "MangaFire manga source for Seanime.",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/daveagero/seanime-mangafire/main/mangafire.json",
   "version": "1.0.0",
   "author": "DLX Innovations",
   "type": "manga-provider",
